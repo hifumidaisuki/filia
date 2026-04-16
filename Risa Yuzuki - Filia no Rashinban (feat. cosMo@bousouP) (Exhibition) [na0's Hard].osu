@@ -1,22 +1,22 @@
 osu file format v14
 
 [General]
-AudioFilename:audio.mp3
-AudioLeadIn:0
-PreviewTime:139787
-Countdown:0
-SampleSet:Soft
-StackLeniency:0.6
-Mode:0
-LetterboxInBreaks:0
-WidescreenStoryboard:1
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 139787
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.6
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
 
 [Editor]
-Bookmarks:50055
-DistanceSpacing:0.6
-BeatDivisor:4
-GridSize:16
-TimelineZoom:1.8
+Bookmarks: 50055
+DistanceSpacing: 0.6
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1.8
 
 [Metadata]
 Title:Filia no Rashinban (feat. cosMo@bousouP)
@@ -25,10 +25,10 @@ Artist:Risa Yuzuki
 ArtistUnicode:Risa Yuzuki
 Creator:Exhibition
 Version:na0's Hard
-Tags:japanese j-pop jpop pop rock jrock J-Rock Replique Réplique cosMo@暴走P cosMo@BousouP featured artist FA ゆずりさ Yuzurisa nayuta なゆた na0__jp nonnoll
-BeatmapSetID:2456004
 Source:
+Tags:japanese j-pop jpop pop rock jrock J-Rock Replique Réplique cosMo@暴走P cosMo@BousouP featured artist FA ゆずりさ Yuzurisa nayuta なゆた na0__jp nonnoll
 BeatmapID:5454032
+BeatmapSetID:2456004
 
 [Difficulty]
 HPDrainRate:4.5
