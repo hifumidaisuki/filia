@@ -1,22 +1,22 @@
 osu file format v14
 
 [General]
-AudioFilename: audio.mp3
-AudioLeadIn: 0
-PreviewTime: 139787
-Countdown: 0
-SampleSet: Soft
-StackLeniency: 0.6
-Mode: 0
-LetterboxInBreaks: 0
-WidescreenStoryboard: 1
+AudioFilename:audio.mp3
+AudioLeadIn:0
+PreviewTime:139787
+Countdown:0
+SampleSet:Soft
+StackLeniency:0.6
+Mode:0
+LetterboxInBreaks:0
+WidescreenStoryboard:1
 
 [Editor]
-Bookmarks: 50055
-DistanceSpacing: 0.6
-BeatDivisor: 4
-GridSize: 16
-TimelineZoom: 1.8
+Bookmarks:50055
+DistanceSpacing:0.6
+BeatDivisor:4
+GridSize:16
+TimelineZoom:1.8
 
 [Metadata]
 Title:Filia no Rashinban (feat. cosMo@bousouP)
@@ -25,10 +25,10 @@ Artist:Risa Yuzuki
 ArtistUnicode:Risa Yuzuki
 Creator:Exhibition
 Version:na0's Hard
-Source:
 Tags:japanese j-pop jpop pop rock jrock J-Rock Replique Réplique cosMo@暴走P cosMo@BousouP featured artist FA ゆずりさ Yuzurisa nayuta なゆた na0__jp nonnoll
-BeatmapID:5454032
 BeatmapSetID:2456004
+Source:
+BeatmapID:5454032
 
 [Difficulty]
 HPDrainRate:4.5
@@ -287,7 +287,7 @@ Combo3 : 162,81,81
 278,208,57153,1,2,0:0:0:0:
 278,208,57287,1,8,0:0:0:0:
 300,126,57421,1,2,0:0:0:0:
-381,102,57555,2,0,P|381:65|352:44,1,59.9999981689454,4|2,0:3|0:0,0:0:0:0:
+381,102,57555,2,0,P|381:65|352:44,1,59.9999981689454,4|2,0:0|0:0,0:0:0:0:
 281,30,57823,1,8,0:0:0:0:
 281,30,57957,2,0,P|203:48|169:9,1,119.999996337891,2|2,0:0|0:0,0:0:0:0:
 92,11,58359,1,8,0:0:0:0:
@@ -569,7 +569,7 @@ Combo3 : 162,81,81
 239,198,147153,1,2,0:0:0:0:
 239,198,147287,1,8,0:0:0:0:
 153,187,147421,1,2,0:0:0:0:
-143,273,147555,2,0,P|153:303|139:330,1,62.5,6|2,0:3|0:0,0:0:0:0:
+143,273,147555,2,0,P|153:303|139:330,1,62.5,4|2,0:0|0:0,0:0:0:0:
 52,349,147823,1,8,0:0:0:0:
 52,349,147957,2,0,P|33:290|60:236,1,125,2|2,0:0|0:0,0:0:0:0:
 134,183,148359,1,8,0:0:0:0:
@@ -728,7 +728,7 @@ Combo3 : 162,81,81
 306,125,203002,2,0,L|354:112,1,50,2|8,0:3|0:0,0:0:0:0:
 393,185,203270,6,0,L|383:284,1,100,4|4,0:3|0:3,0:0:0:0:
 230,374,203805,2,0,L|180:364,1,50,2|4,0:0|0:3,0:0:0:0:
-103,298,204073,2,0,L|78:303,3,25,4|4|4|0,0:3|0:3|0:3|0:0,0:0:0:0:
+103,298,204073,2,0,L|78:303,3,25,4|4|4|4,0:3|0:3|0:3|0:3,0:0:0:0:
 55,296,204341,6,0,P|76:245|73:191,2,110.000003356934,4|8|4,0:3|0:0|0:3,0:0:0:0:
 194,225,205145,2,0,P|194:252|204:277,1,55.0000016784668,8|0,0:0|0:0,0:0:0:0:
 277,303,205412,6,0,P|327:324|374:299,1,110.000003356934,4|8,0:3|0:0,0:0:0:0:
