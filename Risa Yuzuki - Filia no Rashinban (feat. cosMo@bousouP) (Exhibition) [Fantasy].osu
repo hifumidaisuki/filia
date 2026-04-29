@@ -1,22 +1,22 @@
 osu file format v14
 
 [General]
-AudioFilename: audio.mp3
-AudioLeadIn: 0
-PreviewTime: 139787
-Countdown: 0
-SampleSet: Soft
-StackLeniency: 0.7
-Mode: 0
-LetterboxInBreaks: 0
-WidescreenStoryboard: 1
+AudioFilename:audio.mp3
+AudioLeadIn:0
+PreviewTime:139787
+Countdown:0
+SampleSet:Soft
+StackLeniency:0.7
+Mode:0
+LetterboxInBreaks:0
+WidescreenStoryboard:1
 
 [Editor]
-Bookmarks: 50055,88359
-DistanceSpacing: 0.8
-BeatDivisor: 4
-GridSize: 4
-TimelineZoom: 2.4
+Bookmarks:50055,88359
+DistanceSpacing:0.8
+BeatDivisor:4
+GridSize:4
+TimelineZoom:2.4
 
 [Metadata]
 Title:Filia no Rashinban (feat. cosMo@bousouP)
@@ -25,10 +25,10 @@ Artist:Risa Yuzuki
 ArtistUnicode:Risa Yuzuki
 Creator:Exhibition
 Version:Fantasy
-Source:
 Tags:japanese j-pop jpop pop rock jrock J-Rock Replique Réplique cosMo@暴走P cosMo@BousouP featured artist FA ゆずりさ Yuzurisa nayuta なゆた na0__jp nonnoll
-BeatmapID:5454023
 BeatmapSetID:2456004
+Source:
+BeatmapID:5454023
 
 [Difficulty]
 HPDrainRate:5
@@ -43,7 +43,6 @@ SliderTickRate:1
 0,0,"bg.png",0,0
 //Break Periods
 2,28827,36421
-2,120970,126689
 2,173469,180261
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
@@ -709,8 +708,22 @@ Combo3 : 162,81,81
 89,150,118426,1,4,0:3:0:0:
 71,182,118493,1,4,0:3:0:0:
 65,216,118560,1,4,0:3:0:0:
-68,252,118627,1,4,0:3:0:0:
-256,192,118895,12,2,120770,0:3:0:0:
+68,252,118627,5,4,0:3:0:0:
+164,348,119162,1,2,0:0:0:0:
+320,348,119698,2,0,B|408:304|368:284|400:244|480:212,1,210.000008010865,2|8,3:2|0:0,0:0:0:0:
+472,324,120502,5,2,3:2:0:0:
+296,252,120770,2,0,L|320:44,1,210.000008010865,2|2,0:3|0:0,0:0:0:0:
+172,148,121841,1,2,3:2:0:0:
+292,249,122644,5,2,3:2:0:0:
+292,249,122778,1,0,3:0:0:0:
+292,249,122912,2,0,B|176:192|176:192|84:228,1,210.000008010865,2|2,0:0|0:0,0:0:0:0:
+32,128,123984,6,0,P|0:180|32:312,1,183.750007009506,2|0,3:2|0:0,0:0:0:0:
+168,352,124787,1,2,3:2:0:0:
+100,224,125055,1,2,0:0:0:0:
+412,160,125591,1,2,0:0:0:0:
+412,160,125859,1,0,3:0:0:0:
+412,160,126127,1,2,3:2:0:0:
+256,312,126662,1,8,3:2:0:0:
 28,172,127198,6,0,P|96:152|160:164,1,77.0000023498536,4|2,0:3|0:0,0:0:0:0:
 196,260,127466,1,4,0:3:0:0:
 156,92,127600,1,2,0:0:0:0:
